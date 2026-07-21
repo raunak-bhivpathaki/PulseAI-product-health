@@ -39,12 +39,13 @@ Which customer accounts successfully adopt LaunchGrid, which accounts are losing
 
 ### Phase 2 — Data Audit
 
-- [ ] Record all tables and fields
-- [ ] Determine the grain of each table
-- [ ] Identify primary and foreign keys
-- [ ] Review date coverage
-- [ ] Profile missing and duplicate values
-- [ ] Map table relationships
+- [x] Record all tables and fields
+- [x] Determine the grain of each table
+- [x] Identify primary and foreign keys
+- [x] Review date coverage
+- [x] Profile missing and duplicate values
+- [x] Map table relationships
+- [ ] Resolve analytical churn definition
 - [ ] Create the data dictionary
 
 ### Phase 3 — Product Analytics
