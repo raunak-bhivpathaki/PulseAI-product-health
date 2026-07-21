@@ -54,3 +54,13 @@ PulseAI will combine product usage, subscription, support, and churn data to cre
 ## Project Status
 
 **Phase 1: Project definition and data audit**
+
+## Data Source and Attribution
+
+This project uses the synthetic RavenStack SaaS dataset created by **River @ Rivalytics** as its raw analytical source.
+
+The original dataset contains account, subscription, product-usage, support-ticket, and churn-event data.
+
+LaunchGrid, PulseAI, the business problem, product-health framework, metric definitions, SQL analysis, dashboard design, findings, and recommendations are independently developed for this portfolio project.
+
+The original raw dataset terminology is preserved where necessary for traceability.
